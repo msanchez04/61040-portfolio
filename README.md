@@ -23,3 +23,5 @@ This semester I hope to be able to develop functional and exciting apps! I am lo
 [Link to Assignment 2](assignments/assignment2.md)
 
 [Link to Assignment 3](assignments/assignment3.md)
+
+[Link to Functional Design](assignments/functionalDesign.md)
